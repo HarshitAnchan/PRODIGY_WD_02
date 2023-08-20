@@ -10,7 +10,18 @@ body {
     overflow: hidden;
     align-items: center;
     }
-    
+
+    h1{
+        font-size: 5rem;
+        font-weight: 600;
+        text-shadow: 2px 2px #5f5f56;
+        color: #F1F2B5;
+        width: 450px;
+        text-align: center;
+        margin: 40px auto;
+
+    }
+
     #timer{
         font-size: 7rem;
         font-weight: 600;
